@@ -15,7 +15,7 @@ This is a web version of a personal finance tool, built using HTML, CSS, and Jav
 
 ## 👥 Team
 - 💡 Logic Developer: Rishith Kulkarni (Python)
-- 💻 Web Interface: [Ruthvik kanoori]
+- 💻 Web Interface: [Rithvik kanoori]
 
 ## 📁 Files
 - `financeApp.html` – Complete Web UI using my Python logic
