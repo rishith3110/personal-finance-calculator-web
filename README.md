@@ -1,5 +1,4 @@
-# Personal Finance Calculator (Web Version)
-
+index.html
 This is a web version of a personal finance tool, built using HTML, CSS, and JavaScript — based on the core logic originally implemented in Python by me.
 
 ## 🚀 Features
