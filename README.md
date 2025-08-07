@@ -1,4 +1,4 @@
-index.html
+live at :  https://rishith3110.github.io/personal-finance-calculator-web/
 This is a web version of a personal finance tool, built using HTML, CSS, and JavaScript — based on the core logic originally implemented in Python by me.
 
 ## 🚀 Features
